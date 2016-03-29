@@ -1,0 +1,124 @@
+/*table, th, td {
+  /*  border: 2px solid #F9F1F1; 
+    border-collapse: collapse;
+    width: 700px;
+    color: white;
+ 	
+}*/
+.mark
+{
+	background-color:yellow;
+	color:black;
+}
+.historyMessage
+{
+	 border: 2px solid #F9F1F1;
+    border-collapse: collapse;
+    width: 500px;
+    color: white;
+ 	margin-left: 24px;
+	margin-top: 118px;
+	height: 400px;
+	
+	overflow: auto;
+}
+th, td {
+    padding-right: 30px;
+    text-align: left;
+    color:white
+}
+
+.main{
+	width: 750px;
+	margin: 0 auto;
+	background-color: gray;
+}
+
+a{
+	float: right;
+	color: white;
+	margin-top: 37px;
+	margin-right: 18px;
+}
+
+a.listLient
+{
+	float: left;
+	color: white;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+{
+	float: left;
+	color: blue;
+	margin-top: 7px;
+	margin-right: 8px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+h3{
+	font-size: 28px;
+	color: white;
+}
+
+li{
+	font-size: 20px;
+	color: white;
+}
+h4{
+	font-size: 23px;
+color: white;
+margin-left: 35px
+}
+body {
+	background:url('background0.jpg');
+}
+#body {
+	width: 750px;
+	height: 1000px;
+	margin: 0 auto;
+	background-color:#1A2223;
+	 	
+}
+#right p {
+  color: #cac5c8;
+  text-align: center;
+  overflow: auto;
+  width: 750px;
+  margin: 0 auto;
+  background-color:#1A2223;
+  padding-bottom: 30px;
+}
+#header {
+	
+	background: url('logo.png') no-repeat;
+	width: 750px;
+	height: 150;
+
+}
+#body p {
+	font-size: 18px;
+	text-align: center;
+	overflow: auto;
+	padding-top: 60px; 
+
+}
+#menu a {
+	font-size: 20px;
+	font-weight: 600;
+	color: #8fcba9;
+	
+	height: 100%;
+	cursor: pointer;
+
+}
+#menu {
+		 width: 750px;
+  margin: 0 auto;
+  background-color:#1A2223;
+  opacity: 0.9;
+}

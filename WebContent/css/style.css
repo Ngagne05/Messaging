@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+body {
+	background:url('../jsp/images/background0.jpg');
+}
+#body {
+	width: 750px;
+	height: 100%;
+	margin: 0 auto;
+	background-color:#1A2223;
+	
+}
+#right p {
+  color: #cac5c8;
+  text-align: center;
+  overflow: auto;
+  width: 750px;
+  margin: 0 auto;
+  background-color:#1A2223;
+  padding-bottom: 30px;
+}
+
+#body p {
+	font-size: 18px;
+	text-align: center;
+	overflow: auto;
+	padding-top: 100px; 
+	color: white;  
+	width: 600px;
+  	margin: 0 auto;
+
+
+}
+#body input {
+
+	width: 300px;
+	height: 36px;
+	padding-left: 10px;
+	border-radius: 3px;
+	border: 0;
+	background: #e1e1e1;
+	font-size: 13px;
+	box-shadow: -2px 8px 11px -6px #999 inset;
+	display: block;
+	margin: 0 auto;
+}
+#body textarea {
+	width: 300px;
+	height: 350px;
+	padding-left: 10px;
+	border-radius: 3px;
+	border: 0;
+	background: #e1e1e1;
+	font-size: 13px;
+	box-shadow: -2px 8px 11px -6px #999 inset;
+	display: block;
+	margin: 0 auto;
+
+}
+#menu a
+{ 
+	float: right;
+	 color: white;
+	  margin-top: 37px;
+	  margin-right: 18px;
+	}
+#header {
+ background: url('../jsp/images/logo.png') no-repeat;
+  width: 750px;
+   height: 150;
+   margin: 0 auto;
+	background-color:#1A2223;
+
+}
+#search p {
+	color: white;
+	margin-bottom: 15px;
+}
+#search td {
+	width: 50px;
+	height: 30px;
+}
+#tab input {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+
+}
+#tab {
+	margin-top: 70px;
+	border:0px solid white ;
+	color: white;
+	text-align: center;
+
+}

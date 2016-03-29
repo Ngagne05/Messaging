@@ -1,0 +1,104 @@
+
+/*Disable background and border for input fields*/
+input {
+	background: transparent;
+	border: 0;
+}
+
+body {
+	background-image:url('img/bg.jpg');
+	background-repeat:repeat;
+}
+
+#formback {
+	margin: auto;
+	margin-top: 180px;
+	width: 524px;
+	height: 200px;
+	text-align: left;
+	font-family: Verdana, Arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: #ffffff;
+}
+
+form{
+	background-color:#696969;
+	width: 524px;
+	height: 262px;
+	padding-top: 1px;
+}
+
+.login{
+	width: 470px;
+	float: left;
+	margin-top: 33px;
+	margin-left: 40px;
+	font-size: 20px;
+}
+
+.username-text {
+	width: 190px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+.password-text {
+	width: 290px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 0px;
+}
+
+
+.username-field {
+	width: 190px;
+	height: 38px;
+	float:left;
+	margin-top: 10px;
+	margin-left: 35px;
+	background-image: url('img/username-field.png');
+	background-repeat:no-repeat;
+    background-position:left;
+}
+
+.password-field {
+	width: 280px;
+	height: 38px;
+	float:left;
+	margin-top: 10px;
+	margin-left: 0px;
+	background-image: url('img/password-field.png');
+	background-repeat:no-repeat;
+    background-position:left;
+}
+
+input[type="text"], input[type="password"] {
+	width: 120px;
+	height: 16px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: Verdana, Arial;
+	font-size: 16px;
+	color: #2d2d2d;
+}
+
+.register a {
+	color: #cccccc;
+	font-style: italic;
+	margin-top: 26px;
+	margin-left: 280px;
+}
+
+input[type="submit"] {
+	width: 850px;
+	height: 73px;
+	float: left;
+	margin-top: 12px;
+	margin-left: 2px;
+	font-family: Verdana, Arial;
+	font-size: 26px;
+	color: #ffffff;
+}
+

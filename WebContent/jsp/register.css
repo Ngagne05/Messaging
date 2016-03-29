@@ -1,0 +1,41 @@
+fieldset{
+    margin-right:500px;
+	margin-left:500px;
+	margin-top:60px;
+	background-color:#F5F5F5;
+	text-align: center;
+	}
+legend{
+    font-family:"Georgia";
+	font-size:1.5em;
+    }
+table{ 
+    margin: auto;
+	border-spacing:10px 30px;
+	}
+#tb tr{
+    font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    border-right: 20px solid #C1DAD7;
+    border-bottom: 20px solid #C1DAD7;
+    border-top: 20px solid #C1DAD7;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    padding: 6px 6px 6px 12px;
+    background-color:#e8f3fd;
+	font-size:20px;
+    }
+#tb td {
+    border-right: 10px solid #C1DAD7;
+    border-bottom: 10px solid #C1DAD7;
+    font-size:20px;
+    padding: 6px 6px 6px 12px;
+    background-color:#f5fafe;
+    }
+body {
+    background-image:url('img/bg.jpg');
+    background-repeat:repeat;
+    }
+input[type="submit"] {
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
